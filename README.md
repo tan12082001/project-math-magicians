@@ -49,9 +49,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **App created using create-react-app**
+- **In the initial version of the project using the `create-react-app` a test react webpage is created**
 
-- **JavaScript and Stylelint linters**
+- **JavaScript and Stylelint linters are installed for code implementation improvement**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
