@@ -27,10 +27,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Leaderboard <a name="about-project"></a>
-**Leaderboard** Project Leaderboard is a webpage where you can display scores of players or users using the API and async functions.
+# 📖 Math Magicians <a name="about-project"></a>
+
+**Math Magicians** A Single Page App with React having three sub-pages which include an Calculator app within the subpage.
+
 ## 🛠 Built With <a name="built-with"></a>
+
 ### Tech Stack <a name="tech-stack"></a>
+
 <details>
   <summary>Client</summary>
   <ul>
