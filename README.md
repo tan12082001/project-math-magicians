@@ -63,7 +63,7 @@
 
 <!-- Getting started with Create-react-app -->
 
-# Getting Started with Create React App <a name="getting-started-with-create-react-app"></a>
+## Getting Started with Create React App <a name="getting-started-with-create-react-app"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
