@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import calculate from '../logic/calculate';
 
 const Calculator = () => {
@@ -12,9 +12,9 @@ const Calculator = () => {
   return (
     <div className="calculator-outer">
       <div className="calculator-input">
-        {total}
-        {operation}
-        {next}
+        <span>{total}</span>
+        <span>{operation}</span>
+        <span>{next}</span>
       </div>
       <div className="calculator-buttons">
         <button className="tiles" type="button" onClick={clickEvent}>AC</button>

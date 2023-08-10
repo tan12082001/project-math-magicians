@@ -54,6 +54,10 @@ button,
   font-size: 18px;
 }
 
+span {
+  padding: 2px;
+}
+
 .calculator-buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
