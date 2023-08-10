@@ -34,29 +34,24 @@ body {
 }
 
 .calculator-input,
-.calculator-buttons,
-input {
+.calculator-buttons {
   width: 100%;
   height: 100%;
 }
 
 button,
-input {
+.calculator-input {
   background: none;
   outline: none;
   border: none;
   padding: var(--top-bottom-padding) var(--left-right-padding);
 }
 
-#variable,
-#variable::placeholder {
+.calculator-input {
+  background-color: var(--input-color);
   color: #fff;
   text-align: right;
   font-size: 18px;
-}
-
-#variable {
-  background-color: var(--input-color);
 }
 
 .calculator-buttons {

@@ -3,7 +3,7 @@ const Tiles = () => (
     <button className="tiles" type="button">AC</button>
     <button className="tiles" type="button">+/-</button>
     <button className="tiles" type="button">%</button>
-    <button className="tiles operations" type="button">&#247;</button>
+    <button className="tiles operations" type="button">÷</button>
     <button className="tiles" type="button">7</button>
     <button className="tiles" type="button">8</button>
     <button className="tiles" type="button">9</button>
