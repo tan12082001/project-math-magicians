@@ -53,6 +53,12 @@
 
 - **JavaScript and Stylelint linters are installed for code implementation improvement**
 
+- **A working calculator that can perform operations based on two variables.**
+
+- **Displays a random quote on page load from an external API**
+
+- **Uses useEffect and useState hooks for fetching data**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
