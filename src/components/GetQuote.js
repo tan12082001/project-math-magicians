@@ -1,11 +1,18 @@
 import { useEffect, useState } from 'react';
 
+const category = 'funny';
+const BAPI = 'https://api.api-ninjas.com/v1/quotes?category=';
+const MY_API = `${BAPI}${category}`;
+
 const Quote = () => {
   const [data, setData] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
+    let isCancelled = false;
     const fetchData = async () => {
-      const res = await fetch('https://api.api-ninjas.com/v1/quotes?category=courage', {
+      setIsLoading(true);
+      const res = await fetch(MY_API, {
         method: 'GET',
         withCredentials: true,
         headers: {
@@ -14,10 +21,20 @@ const Quote = () => {
         },
       });
       const json = await res.json();
-      setData(json[0]);
+      if (!isCancelled) {
+        setData(json[0]);
+        setIsLoading(false);
+      }
     };
     fetchData();
-  }, [setData]);
+    return () => {
+      isCancelled = true;
+    };
+  }, [setData, setIsLoading]);
+
+  if (isLoading) {
+    return <div>Loading quote</div>;
+  }
   return (
     <div className="quote-display">
       <p className="quote">
