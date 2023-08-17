@@ -21,9 +21,16 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   height: 100%;
-  gap: 10%;
+}
+
+.calc-tot {
+  display: flex;
+  gap: 20%;
+  width: 100%;
+  height: 100%;
+  padding: 6%;
+  background: rgb(230, 254, 254);
 }
 
 .quote-display {
@@ -33,7 +40,11 @@ body {
   display: flex;
   flex-direction: column;
   text-align: center;
-  gap: 10px;
+  gap: 30px;
+  height: 100%;
+  justify-content: center;
+  background: rgb(194, 241, 241);
+  width: 100%;
 }
 
 .quote,
@@ -48,6 +59,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  max-height: 400px;
 }
 
 .calculator-input,
@@ -96,4 +108,14 @@ span {
 
 .tiles:hover {
   transform: scaleX(1.02);
+}
+
+@media (max-width: 700px) {
+  .calc-tot {
+    flex-direction: column;
+  }
+
+  button {
+    padding: 10px;
+  }
 }

@@ -1,0 +1,51 @@
+.home-outer {
+  width: 100%;
+  height: 100%;
+  background: rgb(230, 254, 254);
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1 {
+  padding: 3% 0;
+}
+
+.home-inner {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.parts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.part-one {
+  max-width: 90%;
+  max-height: 350px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border: 1px dotted;
+  font-size: 16px;
+  background: #fff;
+}
+
+.part-one p {
+  padding: 20px;
+}
+
+.part-one p:nth-child(even) {
+  background-color: #e2f8dc;
+}
+
+.part-one p:nth-child(odd) {
+  background-color: #f2f4f7;
+}
