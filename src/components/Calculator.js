@@ -15,19 +15,14 @@ const Calculator = () => {
   // displaying the keys after the click event fired
   const { total, operation, next } = state;
   return (
-    <div className="calc-tot">
-      <div className="calc-side">
-        <p>You can do calculations with two variables.</p>
+    <div className="calculator-outer">
+      <div className="calculator-input">
+        <span>{total}</span>
+        <span>{operation}</span>
+        <span>{next}</span>
       </div>
-      <div className="calculator-outer">
-        <div className="calculator-input">
-          <span>{total}</span>
-          <span>{operation}</span>
-          <span>{next}</span>
-        </div>
-        { /* give handleClick prop with clickEvent function as value */}
-        <Tiles handleClick={clickEvent} />
-      </div>
+      { /* give handleClick prop with clickEvent function as value */}
+      <Tiles handleClick={clickEvent} />
     </div>
   );
 };
