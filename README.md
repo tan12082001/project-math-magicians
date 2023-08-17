@@ -59,6 +59,8 @@
 
 - **Uses useEffect and useState hooks for fetching data**
 
+- **Responsive UI**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -67,7 +69,7 @@
 
  <a name="live-demo"></a>
 
-- [Will be deployed after implementing all the project features.]()
+- [Math-Magicians - Render Web Service](https://math-magicians-v1.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -193,6 +195,7 @@ You can deploy this project using:
 ```sh
   gh-pages
 ```
+This Projects live demo is deployed using [Render](https://render.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,7 +216,7 @@ You can deploy this project using:
 
 - [ ] **Apply more styles for the page**
 
-- [ ] **Create a Single page App**
+- [ ] **Make use of Free source API to get content for home page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
