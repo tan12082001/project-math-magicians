@@ -1,0 +1,594 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests for Navigation components Case 1: Home page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="home-outer"
+      >
+        <h1
+          class="home-heading"
+        >
+          Welcome to Math Magicians! There is a Calculator Next door😁
+        </h1>
+        <div
+          class="home-inner"
+        >
+          <h2>
+            Interesting Facts
+          </h2>
+          <div
+            class="parts"
+          >
+            <div
+              class="part-one"
+            >
+              <p>
+                The closest living relative to humans are chimpanzees, bonobos, and gorillas. We share between 98 and 99.6% of DNA with these species. Gorillas can even catch colds from humans.
+              </p>
+              <p>
+                Most mammals have reproductive cycles. However, only humans, humpback whales, and elephants experience menopause.
+              </p>
+              <p>
+                To escape a crocodiles jaw, push your thumb into its eyeballs.
+              </p>
+              <p>
+                Cats have only lived with people for about 7,000 years. Compared to dogs, whose domestication may have begun as early as 25,000 years ago.
+              </p>
+              <p>
+                Dog noses are as unique as a human fingerprint.
+              </p>
+              <p>
+                Many animals exhibit high levels of emotional intelligence. For example, cows form bonds akin to friendships, and often have a "best friend," and Gentoo Penguins bring a potential mate a pebble to "propose."
+              </p>
+              <p>
+                The first drive-in service station in the United States was opened by Gulf Oil Company - on December 1, 1913, in Pittsburgh, Pennsylvania.
+              </p>
+              <p>
+                Clans of long ago that wanted to get rid of unwanted people without killing them used to burn their houses down -- hence the expression "to get fired"
+              </p>
+              <p>
+                The citrus soda 7-UP was created in 1929; "7" was selected because the original containers were 7 ounces. "UP" indicated the direction of the bubbles.
+              </p>
+              <p>
+                Elephants are the only mammals that can't jump and Elephants have four knees.
+              </p>
+              <p>
+                Each of the suits on a deck of cards represents the four major pillars of the economy in the middle ages: heart represented the Church, spades represented the military, clubs represented agriculture, and diamonds represented the merchant class.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="home-outer"
+    >
+      <h1
+        class="home-heading"
+      >
+        Welcome to Math Magicians! There is a Calculator Next door😁
+      </h1>
+      <div
+        class="home-inner"
+      >
+        <h2>
+          Interesting Facts
+        </h2>
+        <div
+          class="parts"
+        >
+          <div
+            class="part-one"
+          >
+            <p>
+              The closest living relative to humans are chimpanzees, bonobos, and gorillas. We share between 98 and 99.6% of DNA with these species. Gorillas can even catch colds from humans.
+            </p>
+            <p>
+              Most mammals have reproductive cycles. However, only humans, humpback whales, and elephants experience menopause.
+            </p>
+            <p>
+              To escape a crocodiles jaw, push your thumb into its eyeballs.
+            </p>
+            <p>
+              Cats have only lived with people for about 7,000 years. Compared to dogs, whose domestication may have begun as early as 25,000 years ago.
+            </p>
+            <p>
+              Dog noses are as unique as a human fingerprint.
+            </p>
+            <p>
+              Many animals exhibit high levels of emotional intelligence. For example, cows form bonds akin to friendships, and often have a "best friend," and Gentoo Penguins bring a potential mate a pebble to "propose."
+            </p>
+            <p>
+              The first drive-in service station in the United States was opened by Gulf Oil Company - on December 1, 1913, in Pittsburgh, Pennsylvania.
+            </p>
+            <p>
+              Clans of long ago that wanted to get rid of unwanted people without killing them used to burn their houses down -- hence the expression "to get fired"
+            </p>
+            <p>
+              The citrus soda 7-UP was created in 1929; "7" was selected because the original containers were 7 ounces. "UP" indicated the direction of the bubbles.
+            </p>
+            <p>
+              Elephants are the only mammals that can't jump and Elephants have four knees.
+            </p>
+            <p>
+              Each of the suits on a deck of cards represents the four major pillars of the economy in the middle ages: heart represented the Church, spades represented the military, clubs represented agriculture, and diamonds represented the merchant class.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Tests for Navigation components Case 2: Calculator page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="calc-tot"
+      >
+        <div
+          class="calc-side"
+        >
+          <p>
+            You can do calculations with two variables.
+          </p>
+        </div>
+        <div
+          class="calculator-outer"
+        >
+          <div
+            class="calculator-input"
+          >
+            <span>
+              0
+            </span>
+            <span />
+            <span />
+          </div>
+          <div
+            class="calculator-buttons"
+          >
+            <button
+              class="tiles"
+              type="button"
+            >
+              AC
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              +/-
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              %
+            </button>
+            <button
+              class="tiles operations"
+              type="button"
+            >
+              ÷
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              7
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              8
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              9
+            </button>
+            <button
+              class="tiles operations"
+              type="button"
+            >
+              x
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              4
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              5
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              6
+            </button>
+            <button
+              class="tiles operations"
+              type="button"
+            >
+              -
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              1
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              2
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              3
+            </button>
+            <button
+              class="tiles operations"
+              type="button"
+            >
+              +
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              0
+            </button>
+            <button
+              class="tiles"
+              type="button"
+            >
+              .
+            </button>
+            <button
+              class="tiles operations"
+              type="button"
+            >
+              =
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="calc-tot"
+    >
+      <div
+        class="calc-side"
+      >
+        <p>
+          You can do calculations with two variables.
+        </p>
+      </div>
+      <div
+        class="calculator-outer"
+      >
+        <div
+          class="calculator-input"
+        >
+          <span>
+            0
+          </span>
+          <span />
+          <span />
+        </div>
+        <div
+          class="calculator-buttons"
+        >
+          <button
+            class="tiles"
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            %
+          </button>
+          <button
+            class="tiles operations"
+            type="button"
+          >
+            ÷
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            7
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            8
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            9
+          </button>
+          <button
+            class="tiles operations"
+            type="button"
+          >
+            x
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            4
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            5
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            6
+          </button>
+          <button
+            class="tiles operations"
+            type="button"
+          >
+            -
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            1
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            2
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            3
+          </button>
+          <button
+            class="tiles operations"
+            type="button"
+          >
+            +
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            0
+          </button>
+          <button
+            class="tiles"
+            type="button"
+          >
+            .
+          </button>
+          <button
+            class="tiles operations"
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Tests for Navigation components Case 3: Quote page snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        Loading quote
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      Loading quote
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
