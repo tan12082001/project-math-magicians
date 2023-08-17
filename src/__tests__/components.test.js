@@ -1,9 +1,9 @@
 import '@testing-library/jest-dom';
 import React from 'react';
-import { render } from "@testing-library/react";
-import Home from "../components/home-page";
-import Quote from "../components/GetQuote";
-import Calculator from "../components/Calculator";
+import { render } from '@testing-library/react';
+import Home from '../components/home-page';
+import Quote from '../components/GetQuote';
+import Calculator from '../components/Calculator';
 
 describe('Tests for Navigation components', () => {
   test('Case 1: Home page snapshot', () => {
